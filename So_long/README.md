@@ -8,4 +8,5 @@ $ git clone https://github.com/bertt6/so_long
 $ make 
 $ ./so_long maps/"map_name" 
 ```
-
+some information
+https://www.notion.so/So_Long-878dc649f20a49e4b6e010197a637e3b
