@@ -1,0 +1,12 @@
+get_next_line ile haritayı oku -ok
+haritanın en köşeleri 1 mi diye kontrol et
+haritanın uuznluklarını kontrol et bi satır daha uzun veya kısa olmasın 
+hraitada boşluk var mı kontrol et
+haritanın içerisinde player 'P' exite 'E'ye erişebiliyor mu kontrol et (recursive tavsiye)
+mlx kütüphanesini kullanmaya başla 
+pencere aç 
+xmp dosyaları pencereye işlemeyi öğren
+pencereyi full resim yap 
+karakteri duvarları coinleri ve kapıları eklemeyi öğren 
+coin kapı karakter sayılarını kontrol et
+karakteri oynatmayı öğren
