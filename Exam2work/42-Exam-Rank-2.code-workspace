@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../42-Exam-Rank-2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unistd.h": "c"
+		}
+	}
+}
