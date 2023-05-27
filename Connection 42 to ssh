@@ -1,0 +1,10 @@
+42 connection to ssh
+
+
+1)ssh-keygen
+
+2)cd ~/.ssh
+
+3)cat id_rsa.pub 
+
+you will see the ssh public key crl+c and pass the intra.42.ft key area.
